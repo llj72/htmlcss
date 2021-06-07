@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    margin-bottom: 10%;
+}
+
+.box1{
+    width: 400px;
+    /* height: 100px; */
+    background-color: red;
+    /* margin-bottom: 30%; */
+}
+.box2{
+    width: 50%;
+    /* height: 100px; */
+    background-color: blue;
+}

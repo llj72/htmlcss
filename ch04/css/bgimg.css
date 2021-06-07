@@ -1,0 +1,17 @@
+body{
+    background-image: url("images/bg4.jpg");
+    background-repeat:no-repeat;
+    background-position: top right;
+}
+    #text1{
+        color:rgb(0, 0, 0)
+    }
+    #text2{
+        color:rgba(0, 0, 0, 0.8)
+    }
+    #text3{
+        color:rgba(0, 0, 0, 0.5)
+    }
+    #text4{
+        color:rgba(0, 0, 0, 0.2)
+    }

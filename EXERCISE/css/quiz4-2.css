@@ -1,0 +1,26 @@
+body{
+    width: 550px;
+    height: 250px;
+    border: 1px solid #ccc;
+    padding: 10px 50px 50px 00px
+}
+h1{
+    margin-left: 30px;
+}
+table{
+    margin: 30px;
+    width: 500px;
+    height: 150px;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+tr,th{
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid #ccc;
+    padding-left: 150px;
+    border-collapse: collapse;
+
+}

@@ -1,0 +1,7 @@
+div{
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    border: 1px solid #ccc;
+    margin: 30px auto
+}

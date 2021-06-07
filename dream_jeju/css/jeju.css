@@ -1,0 +1,101 @@
+/* 구글 웹 폰트 적용 */
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&family=Nanum+Pen+Script&display=swap');
+
+*{
+    margin:0
+}    
+    #container{
+    width: 1100px;
+    margin: 0 auto;
+}
+/* 헤더 영역 */
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #045;
+}
+nav{
+    width: 700px;
+    height: 100px;
+    float: right;
+    text-align: right;
+    margin-right: 100px;
+}
+#logo{
+    width: 250px;
+    height: 100px;
+    float: left;
+    line-height: 100px;
+}
+#logo a{
+    text-decoration: none;
+    color: white;
+}
+#logo h1{
+    font-family: 'Merienda', cursive;
+    color: white;
+    padding-left: 30px;
+}
+#topMenu{ /*ul*/
+    list-style: none;
+}
+#topMenu li{
+    display: inline;
+    line-height: 100px;
+}
+#topMenu li a{
+    padding: 0 30px;
+    color: white;
+    text-decoration: none;
+}
+/* 본문 영역 */
+.contents{
+    width: 1000px;
+    margin: 50px auto;
+}
+main section{
+    margin-top: 50px
+}
+main section h2{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2.5em;
+}
+main div{
+    margin-top: 20px;
+}
+.detail img{
+    float:left;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+.detail p{
+    line-height:2;
+}
+.schedule ul{
+    list-style: none;
+}
+.schedule ul li{
+    line-height: 2;
+    margin-top: 15px;
+}
+/* footer 영역 */
+footer{
+    height: 100px;
+    border-top: 2px solid #222;
+}
+#bottomMenu ul{
+    list-style: none;
+    margin-top: 20px;
+    /* margin-left: 50px; */
+    padding: 0;
+}
+#bottomMenu ul li{
+    display: inline;
+    padding: 5px 20px;
+    border-right: 1px solid #ddd;
+}
+#bottomMenu ul li a{
+    text-decoration: none;
+    color: black;
+}

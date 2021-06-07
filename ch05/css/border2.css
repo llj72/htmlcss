@@ -1,0 +1,19 @@
+div{
+    border-style: solid;
+    border-color: blue;
+    height: 100px;
+    width: 200px;
+    /* display: inline-block; */
+}
+.box1{
+    border-width: 2px;
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+}
+.box2{
+    border-width: 2px 5px;
+    margin: 30px 20px;
+    float: left;
+    border-radius: 50%;
+}

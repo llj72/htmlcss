@@ -1,0 +1,14 @@
+body{
+    font-size: 1.2em; /* 1em - 16px */
+}
+#container{
+    border: 3px solid #000;
+    width: 600px;
+    padding: 10px;
+}
+h1{
+    color:orange!important; /*!important 우선 순위가 높음*/
+}
+.redtext{
+    color: red;
+}

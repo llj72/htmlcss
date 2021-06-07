@@ -1,0 +1,15 @@
+div{
+    border-style: solid;
+    border-color: blue;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+}
+.box1{
+    border-width: 2px;
+    margin: 20px;
+}
+.box2{
+    border-width: 2px 5px;
+    margin: 30px 20px;
+}
