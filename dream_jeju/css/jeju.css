@@ -49,6 +49,9 @@ nav{
     color: white;
     text-decoration: none;
 }
+#topMenu li a:hover{
+    color:greenyellow;
+}
 /* 본문 영역 */
 .contents{
     width: 1000px;
